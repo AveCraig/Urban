@@ -14,3 +14,4 @@ for num in numbers:
         not_primes.append(num)
 print(primes)
 print(not_primes)
+# От гитхаба скоро изжога будет. не понятный он
